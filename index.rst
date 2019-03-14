@@ -13,6 +13,14 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: Sponsor Labs
+   :name: _sponsor_labs
+   :hidden:
+
+   hycu/hycu
+
+.. toctree::
+   :maxdepth: 2
    :caption: Nutanix Core Labs
    :name: _core_labs
    :hidden:
@@ -43,7 +51,7 @@
    xtract_aws/xtract_aws
    epoch/epoch
    frame/frame
-   .. xiiot/xiiot
+   xiiot/xiiot
 
 .. toctree::
    :maxdepth: 2
@@ -56,14 +64,6 @@
    calm_escript/calm_escript
    calm_win/calm_win
    cloud_native_lab/cloud_native_lab
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Sponsor Labs
-   :name: _sponsor_labs
-   :hidden:
-
-   hycu/hycu
 
 .. toctree::
    :maxdepth: 2
@@ -86,13 +86,11 @@ Welcome to Nutanix Global Tech Summit 2019!
 
 Following the General Session on Tuesday morning, you will be able to access the **Hands on Learning** lab content.
 
-Labs are designed to be completed by each individual, not in groups. Each Nutanix SE registered for the **Hands on Learning** track must complete the :ref:`era` and :ref:`flow` labs. You should be able to complete 2-4 additional labs by the end of the day Wednesday.
+Labs are designed to be completed by each individual, not in groups. Each attendee (Nutanix SE or partner) registered for the **Hands on Learning** track must complete at least **5** labs. After that, the more lab you complete (while learning), the better. Each lab takes roughly 1h to complete.
 
-Nutanix SEs who did not participate in last year's Tech Summit event must also complete the :ref:`nutanix101`, :ref:`files`, and :ref:`hycu` labs.
+**For each lab you complete & validate, you'll be entered into a raffle to win a Raspberry Pi 3B+ kit**
 
-**For each lab you complete & validate, you'll be entered into a raffle to win a $70 Visa Gift Card!**
-
-**Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation.**
+**Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation. You have to be in the room to work on and validate labs.**
 
 .. raw:: html
 
