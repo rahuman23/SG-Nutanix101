@@ -15,14 +15,14 @@ Monday
      - **End**
      - **Description**
      - **Location**
-   * - 7:00 AM
+   * - 12:00 PM
      - 6:00 PM
      - Registration
-     - Lobby (adjacent to group check-in counter)
-   * - 6:00 PM
-     - 9:00 PM
+     - Hotel Lobby
+   * - 7:00 PM
+     - 11:00 PM
      - Welcome Reception
-     - The Garden at Queen's Park (9th Floor)
+     - Salon Jardin
 
 
 Tuesday
@@ -37,45 +37,49 @@ Tuesday
      - **Description**
      - **Location**
    * - 7:00 AM
-     - 6:00 PM
+     - 7:00 PM
      - Registration
-     - Thai Chitlada Foyer (Level 2 Registration Desk)
+     - Congress Center Foyer
    * - 7:00 AM
-     - 8:00 AM
+     - 9:00 AM
      - Breakfast
-     - Goji Kitchen
-   * - 8:00 AM
-     - 9:45 AM
+     - Multifunction Room
+   * - 9:00 AM
+     - 10:45 AM
      - General Session
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 9:45 AM
-     - 10:15 AM
+     - H2
+   * - 10:45 AM
+     - 11:00 AM
      - Break
-     - Foyer
-   * - 10:15 AM
-     - 12:00 PM
+     - Piruli Foyer
+   * - 11:00 AM
+     - 12:30 PM
      - General Session
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 12:00 PM
-     - 1:00 PM
+     - H2
+   * - 12:30 PM
+     - 1:30 PM
      - Lunch
-     - Goji Kitchen
-   * - 1:00 PM
-     - 3:00 PM
-     - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 3:00 PM
+     - Multifunction Room
+   * - 1:30 PM
      - 3:30 PM
-     - Break
-     - Foyer
+     - Hands on Learning/Hackathon
+     - H2
    * - 3:30 PM
+     - 4:00 PM
+     - Break
+     - Piruli Foyer
+   * - 4:00 PM
      - 5:30 PM
      - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 7:00 PM
-     - 10:00 PM
-     - Evening Event
-     - ABar & Rooftop
+     - H2
+   * - 7:15 PM
+     - 7:30 PM
+     - Transportation to Off-Site Evening Event
+     - Meet in Hotel Lobby
+   * - 8:00 PM
+     - 11:00 PM
+     - Off-Site Evening Event
+     - Ocana
 
 
 Wednesday
@@ -92,76 +96,72 @@ Wednesday
    * - 8:00 AM
      - 6:00 PM
      - Registration
-     - Thai Chitlada Foyer (Level 2 Registration Desk)
+     - Congress Center Foyer
 
    * - 7:00 AM
      - 8:30 AM
      - Breakfast
-     - Goji Kitchen
+     - Multifunction Room
    * - 8:30 AM
-     - 10:00 AM
+     - 9:30 AM
      - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
    * - 9:30 AM
      - 10:00 AM
      - Break
-     - Foyer
+     - Piruli Foyer
    * - 10:00 AM
-     - 11:00 AM
-     - Breakout - `Ask the Product Team - Storage and HCI`_
-     - Great Hall Meeting Room 1 (7th Floor)
-   * - 11:00 AM
-     - 12:00 PM
-     - Breakout - `Ask the Product Team - Virtualization and Management`_
-     - Great Hall Meeting Room 1 (7th Floor)
+     - 12:00 AM
+     - Breakout - `Delivering API Workshops`_
+     - H1
    * - 10:00 AM
      - 12:00 PM
      - Breakout - `VSAN Competitive Deep Dive`_
-     - Great Hall Meeting Room 2 (7th Floor)
+     - HA
    * - 10:00 AM
      - 12:00 PM
      - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
    * - 12:00 PM
      - 1:00 PM
      - Lunch
-     - Goji Kitchen
-   * - 1:00 PM
-     - 3:00 PM
-     - Breakout - `Delivering API Workshops`_
-     - Great Hall Meeting Room 1 (7th Floor)
+     - Multifunction Room
 
    * - 1:00 PM
      - 3:00 PM
-     - Breakout - `Everything about Era`_
-     - Great Hall Meeting Room 2 (7th Floor)
+     - Breakout - `Public Cloud & Xi Beam Overview`_
+     - H1
+   * - 1:00 PM
+     - 3:00 PM
+     - Breakout - `Public Cloud & Xi Beam Overview`_
+     - HA
 
    * - 1:00 AM
      - 3:00 PM
      - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
    * - 3:00 PM
      - 3:30 PM
      - Break
-     - Foyer
+     - Piruli Foyer
 
    * - 3:30 PM
      - 4:30 PM
-     - Breakout - `Ask the Product Team - Supportability and Operations`_
-     - Great Hall Meeting Room 1 (7th Floor)
+     - Breakout - `Ask the Product Team -  Interactive Q&A and Feedback session`_
+     - H1
    * - 3:30 PM
      - 5:30 PM
-     - Breakout - `Public Cloud & Xi Beam Overview`_
-     - Great Hall Meeting Room 2 (7th Floor)
+     - Breakout - `VSAN Competitive Deep Dive`_
+     - HA
 
    * - 3:30 PM
      - 9:00 PM
      - Hands on Learning/Hackathon
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
    * - 6:00 PM
      - 9:00 PM
      - Working Dinner
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
 
 Thursday
 ++++++++
@@ -174,31 +174,31 @@ Thursday
      - **End**
      - **Description**
      - **Location**
-   * - 8:00 AM
-     - 6:00 PM
+   * - 7:00 AM
+     - 12:00 PM
      - Registration
-     - Thai Chitlada Foyer (Level 2 Registration Desk)
+     - Congress Center Foyer
 
    * - 7:00 AM
      - 8:30 AM
      - Breakfast
-     - Goji Kitchen
-   * - 8:50 AM
+     - Multifunction Room
+   * - 9:00 AM
      - 11:15 AM
      - General Session/Hackathon Presentations
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 10:15 AM
-     - 10:45 AM
+     - H2
+   * - 11:15 AM
+     - 11:30 AM
      - Break
-     - Foyer
-   * - 11:45 AM
-     - 12:00 PM
+     - Piruli Foyer
+   * - 11:30 AM
+     - 12:30 PM
      - Award Presentations
-     - Thai Chitlada Ballroom (2nd Floor)
-   * - 12:00 PM
-     - 12:10 PM
-     - Closing
-     - Thai Chitlada Ballroom (2nd Floor)
+     - H2
+   * - 12:30 PM
+     - 1:30 PM
+     - Lunch
+     - H2
 
 Breakouts
 +++++++++
