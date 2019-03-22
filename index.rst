@@ -6,75 +6,76 @@
    :name: _info
    :hidden:
 
-   info/emeaagenda
+   info/apacagenda
    info/clusteraccess
-   info/clusterinfo
+   .. info/clusterinfo
    info/validation
+..
+  .. toctree::
+     :maxdepth: 2
+     :caption: Nutanix Core Labs
+     :name: _core_labs
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Sponsor Labs
-   :name: _sponsor_labs
-   :hidden:
+     nutanix101/nutanix101
 
-   hycu/hycu
+  .. toctree::
+     :maxdepth: 2
+     :caption: Nutanix Essentials Labs
+     :name: _essentials_labs
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Core Labs
-   :name: _core_labs
-   :hidden:
+     calm_linux/calm_linux
+     files/files
+     flow/flow
+     xplay/xplay
+     dr_runbooks/dr_runbooks
 
-   nutanix101/nutanix101
+  .. toctree::
+     :maxdepth: 2
+     :caption: Nutanix Enterprise Labs
+     :name: _enterprise_labs
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Essentials Labs
-   :name: _essentials_labs
-   :hidden:
+     buckets/buckets
+     era/era
+     karbon/karbon
+     xtract_aws/xtract_aws
+     epoch/epoch
+     frame/frame
+     xiiot/xiiot
 
-   calm_linux/calm_linux
-   files/files
-   flow/flow
-   xplay/xplay
-   dr_runbooks/dr_runbooks
+  .. toctree::
+     :maxdepth: 2
+     :caption: Advanced Labs
+     :name: _advanced_labs
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Enterprise Labs
-   :name: _enterprise_labs
-   :hidden:
+     apis/apis
+     calm_day2/calm_day2
+     calm_escript/calm_escript
+     calm_win/calm_win
+     cloud_native_lab/cloud_native_lab
 
-   buckets/buckets
-   era/era
-   karbon/karbon
-   xtract_aws/xtract_aws
-   epoch/epoch
-   frame/frame
-   xiiot/xiiot
+  .. toctree::
+     :maxdepth: 2
+     :caption: Sponsor Labs
+     :name: _sponsor_labs
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Advanced Labs
-   :name: _advanced_labs
-   :hidden:
+     hycu/hycu
+     peer/peer
 
-   apis/apis
-   calm_day2/calm_day2
-   calm_escript/calm_escript
-   calm_win/calm_win
-   cloud_native_lab/cloud_native_lab
+  .. toctree::
+     :maxdepth: 2
+     :caption: Appendix
+     :name: _appendix
+     :hidden:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Appendix
-   :name: _appendix
-   :hidden:
-
-   tools_vms/windows_tools_vm
-   tools_vms/linux_tools_vm
-   taskman/taskman
-   wordpress/wordpress
+     tools_vms/windows_tools_vm
+     tools_vms/linux_tools_vm
+     taskman/taskman
+     wordpress/wordpress
 
 .. _welcome:
 
@@ -86,11 +87,11 @@ Welcome to Nutanix Global Tech Summit 2019!
 
 Following the General Session on Tuesday morning, you will be able to access the **Hands on Learning** lab content.
 
-Labs are designed to be completed by each individual, not in groups. Each attendee (Nutanix SE or partner) registered for the **Hands on Learning** track must complete at least **5** labs. After that, the more lab you complete (while learning), the better. Each lab takes roughly 1h to complete.
+Labs are designed to be completed by each individual, not in groups. Each Nutanix employee registered for the **Hands on Learning** track must complete a **minimum** of 5 labs.
 
-**For each lab you complete & validate, you'll be entered into a raffle to win a Raspberry Pi 3B+ kit**
+For each lab you complete & validate, you'll be entered into a raffle to win a `complete Raspberry Pi 3 kit <https://www.aboxtek.com/products/abox-raspberry-pi-3b-16gb>`_!
 
-**Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation. You have to be in the room to work on and validate labs.**
+**Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation.**
 
 .. raw:: html
 

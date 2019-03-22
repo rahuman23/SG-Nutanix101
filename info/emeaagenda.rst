@@ -46,7 +46,11 @@ Tuesday
      - Multifunction Room
    * - 9:00 AM
      - 10:45 AM
-     - General Session
+     - Partner General Session
+     - H1
+   * - 9:00 AM
+     - 10:45 AM
+     - Nutanix General Session
      - H2
    * - 10:45 AM
      - 11:00 AM
@@ -54,7 +58,7 @@ Tuesday
      - Piruli Foyer
    * - 11:00 AM
      - 12:30 PM
-     - General Session
+     - Global General Session
      - H2
    * - 12:30 PM
      - 1:30 PM
@@ -147,7 +151,7 @@ Wednesday
 
    * - 3:30 PM
      - 4:30 PM
-     - Breakout - `Ask the Product Team - Interactive Q&A and Feedback session`_
+     - Breakout - `Ask the Core Product Team - Interactive Q&A and Feedback session`_
      - H1
    * - 3:30 PM
      - 5:30 PM
@@ -222,7 +226,7 @@ Xi Leap Deep Dive
 
 *Wednesday, 1:00PM - 3:00PM - H1*
 
-**Need Words Here**
+ In this breakout session, come take a deeper look at how Xi Leap can help your customers avoid costly 2nd sites for DR, and learn in depth about Xi Leap implementation from 2 of our most senior GSO Architect & Consultant.
 
 Public Cloud & Xi Beam Overview
 ...............................
@@ -231,12 +235,16 @@ Public Cloud & Xi Beam Overview
 
 Want to know more about offerings from AWS, Azure, and others? Technical knowledge about public cloud solutions are critical to being able to effectively position on-premises alternatives, and well as complimentary Nutanix services. In addition to providing a "crash course" on the public cloud, this session will provide details on how Xi Beam can provide additional value in these environments.
 
-Ask the Product Team - Interactive Q&A and Feedback session
+Ask the Core Product Team - Interactive Q&A and Feedback session
 ...........................................................
 
 *Wednesday, 3:30PM - 4:30PM - H1*
 
-**Need Words Here**
+This breakout will give you the opportunity to ask questions and learn from a panel of Product Management and Engineering SMEs on the following topics.
+
+- HCI and Storage (Performance, Capacity, Data Protection, Encryption)
+- Virtualization and Management
+- Supportability and Operations (Lifecycle Manager, Cluster Monitoring, Cluster Auditing)
 
 VSAN Competitive Deep Dive - Repeat
 ...................................
