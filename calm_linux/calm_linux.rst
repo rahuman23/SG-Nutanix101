@@ -160,6 +160,28 @@ Variables can be used in scripts executed against objects using the **@@{variabl
 
 #. Click **Save**.
 
+Adding a Downloadable Image
++++++++++++++++++++++++++++
+
+VMs in AHV can be deployed based on a disk image. With Calm, you can select a Downloadable Image via a URI. During the application deployment, Prism Central will automatically download and create the image specified. If an image with the same URI already exists on the cluster, it will skip the download and use the local image instead.
+
+#. From the top toolbar, click **Configuration > Downloadable Image Configuration** :fa:`plus-circle` and fill out the following fields:
+
+   - **Package Name** - CentOS_7_Cloud
+   - **Description** - CentOS 7 Cloud Image
+   - **Image Name** - CentOS_7_Cloud
+   - **Image Type** - Disk Image
+   - **Architecture** - X86_64
+   - **Source URI** - http://download.nutanix.com/calm/CentOS-7-x86_64-GenericCloud.qcow2
+   - **Product Name** - CentOS
+   - **Product Version** - 7
+
+   .. note::
+      This Generic Cloud image is the same that's used for the majority of the Nutanix Pre-Seeded Application Blueprints.
+
+   .. figure:: images/6.png
+
+#. Click **Save**, and then **Back**.
 
 Creating Services
 +++++++++++++++++
@@ -195,7 +217,7 @@ Creating the Database Service
 
      This will use the Runtime **User_initials** variable you previously provided to prepend the VM name with your initials. It will also use built-in macros to provide the array index (for scale out services) and a time stamp.
 
-   - **Image** - CentOS7.qcow2
+   - **Image** - CentOS_7_Cloud
    - **Device Type** - Disk
    - **Device Bus** - SCSI
    - Select **Bootable**
@@ -670,11 +692,11 @@ Takeaways
 
 What are the key things you should know about **Nutanix Calm**?
 
-- Nutanix Calm, as a native component of Prism, is built on and carries forward the benefits of the platform.  The simplicity provided by Acropolis lets Calm focus on the application, rather then trying to mask the complexity of the underlying infrastructure management
+- Nutanix Calm, as a native component of Prism, is built on and carries forward the benefits of the platform.  The simplicity provided by Acropolis lets Calm focus on applications, rather than trying to mask the complexity of the underlying infrastructure management.
 
-- Calm blueprints are easy to use.  In 60 minutes you went from nothing to a full infrastructure stack deployment.  Because Calm uses standard tools for configuration - bash, powershell, and later on python scrips - there's no complex new language to learn and you can immediately apply skills you already have
+- Calm blueprints are easy to use.  In 60 minutes you went from nothing to a full infrastructure stack deployment.  Because Calm uses standard tools for configuration - bash, PowerShell, Python, etc. - there's no new language to learn and you can immediately apply skills and code you already have.
 
-- While not as visually impressive, even single VM blueprints can have a massive effect on customers.  One bank in India is using Calm for single-VM deployments, reducing the time to deploy these applications from 3 days to a couple of hours.  Remember that many of our customers have little or no automation today (or the automation they have is complex/hard to understand thus limiting it's adoption).  This means that Calm can help them right now, today, instantly.
+- While not as visually impressive, even single VM blueprints can have a massive effect on customers.  One bank in India is using Calm for single-VM deployments, reducing the time to deploy these applications from 3 days to 2 hours.  Remember that many customers have little or no automation today (or the automation they have is complex/hard to understand thus limiting it's adoption).  This means that Calm can help them right now, today, instantly.
 
 - "Multi-Cloud Application Automation and Lifecycle Management" sounds big and scary.  The 'future' sounds amazing, but many operators can't see the path to there.  Listen to what the customer is struggling with today (backups require specialized skills, VM deployment takes a long time, upgrades are hard) and speak to how Calm can help with that; jumping right to the multi-cloud automation story pushes Calm from a "I need this right now" to a "well let's evaluate this later on, once things have quieted down" (and things never truly 'quiet down'.
 
