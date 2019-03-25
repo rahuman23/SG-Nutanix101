@@ -89,7 +89,7 @@ Following the General Session on Tuesday morning, you will be able to access the
 
 Labs are designed to be completed by each individual, not in groups. Each Nutanix employee registered for the **Hands on Learning** track must complete a **minimum** of 5 labs.
 
-For each lab you complete & validate, you'll be entered into a raffle to win a `complete Raspberry Pi 3 kit <https://www.aboxtek.com/products/abox-raspberry-pi-3b-16gb>`_!
+For each lab you complete & validate, you'll be entered into a raffle to win a complete Raspberry Pi 3 kit!
 
 **Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation.**
 
