@@ -22,7 +22,7 @@ Monday
    * - 7:00 PM
      - 11:00 PM
      - Welcome Reception
-     - Salon Jardin
+     - Salon Járdin
 
 
 Tuesday
@@ -55,7 +55,7 @@ Tuesday
    * - 10:45 AM
      - 11:00 AM
      - Break
-     - Piruli Foyer
+     - Foyer
    * - 11:00 AM
      - 12:30 PM
      - Global General Session
@@ -71,13 +71,13 @@ Tuesday
    * - 3:30 PM
      - 4:00 PM
      - Break
-     - Piruli Foyer
+     - Foyer
    * - 4:00 PM
      - 5:30 PM
      - Hands on Learning/Hackathon
      - H2
-   * - 7:15 PM
-     - 7:30 PM
+   * - 7:00 PM
+     - 7:15 PM
      - Transportation to Off-Site Evening Event
      - Meet in Hotel Lobby
    * - 8:00 PM
@@ -113,7 +113,7 @@ Wednesday
    * - 9:30 AM
      - 10:00 AM
      - Break
-     - Piruli Foyer
+     - Foyer
    * - 10:00 AM
      - 12:00 AM
      - Breakout - `Delivering API Workshops`_
@@ -121,7 +121,7 @@ Wednesday
    * - 10:00 AM
      - 12:00 PM
      - Breakout - `VSAN Competitive Deep Dive`_
-     - HA
+     - Room A
    * - 10:00 AM
      - 12:00 PM
      - Hands on Learning/Hackathon
@@ -138,7 +138,7 @@ Wednesday
    * - 1:00 PM
      - 3:00 PM
      - Breakout - `Public Cloud & Xi Beam Overview`_
-     - HA
+     - Room A
 
    * - 1:00 AM
      - 3:00 PM
@@ -147,7 +147,7 @@ Wednesday
    * - 3:00 PM
      - 3:30 PM
      - Break
-     - Piruli Foyer
+     - Foyer
 
    * - 3:30 PM
      - 4:30 PM
@@ -156,7 +156,7 @@ Wednesday
    * - 3:30 PM
      - 5:30 PM
      - Breakout - `VSAN Competitive Deep Dive - Repeat`_
-     - HA
+     - Room A
 
    * - 3:30 PM
      - 9:00 PM
@@ -194,7 +194,7 @@ Thursday
    * - 11:15 AM
      - 11:30 AM
      - Break
-     - Piruli Foyer
+     - Foyer
    * - 11:30 AM
      - 12:30 PM
      - Award Presentations
@@ -217,7 +217,7 @@ Join Luke Kilpatrick and Chris Rasmussen from Nutanix Developer Marketing to lea
 VSAN Competitive Deep Dive
 ..........................
 
-*Wednesday, 10:00AM - 12:00PM - HA*
+*Wednesday, 10:00AM - 12:00PM - Room A*
 
 In this deep dive breakout session we’ll cover the core architectural differentiation between vSAN/VxRAIL and Nutanix, why this matters to customers, and how we can expose these differences during POCs leveraging Nutanix X-Ray.
 
@@ -231,7 +231,7 @@ Xi Leap Deep Dive
 Public Cloud & Xi Beam Overview
 ...............................
 
-*Wednesday, 1:00PM - 3:00PM - HA*
+*Wednesday, 1:00PM - 3:00PM - Room A*
 
 Want to know more about offerings from AWS, Azure, and others? Technical knowledge about public cloud solutions are critical to being able to effectively position on-premises alternatives, and well as complimentary Nutanix services. In addition to providing a "crash course" on the public cloud, this session will provide details on how Xi Beam can provide additional value in these environments.
 
@@ -249,7 +249,7 @@ This breakout will give you the opportunity to ask questions and learn from a pa
 VSAN Competitive Deep Dive - Repeat
 ...................................
 
-*Wednesday, 3:30PM - 5:30PM - HA*
+*Wednesday, 3:30PM - 5:30PM - Room A*
 
 In this deep dive breakout session we’ll cover the core architectural differentiation between vSAN/VxRAIL and Nutanix, why this matters to customers, and how we can expose these differences during POCs leveraging Nutanix X-Ray.
 
@@ -258,11 +258,11 @@ Breakout Q&A
 
 You can ask questions for any of the breakout sessions using the web app below. **You do not need to attend a session to submit or vote on questions.**
 
-Open https://sli.do/GTSAPAC on your laptop or mobile device.
+Open https://sli.do/GTSEMEA on your laptop or mobile device.
 
 .. note::
 
-  You can also access the app through https://www.slido.com using **#GTSAPAC** as the **Event Code**.
+  You can also access the app through https://www.slido.com using **#GTSEMEA** as the **Event Code**.
 
 Select the desired breakout session from the list.
 
