@@ -8,7 +8,6 @@
 
    info/clusteraccess
    info/clusterinfo
-   #info/validation
 
 .. toctree::
    :maxdepth: 2
@@ -34,7 +33,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Advanced Labs
+   :caption: Advanced Labs (optional)
    :name: _advanced_labs
    :hidden:
 
@@ -49,11 +48,11 @@ Nutanix Partner Tech Summit - Malaysia
 
 Welcome to Nutanix Partner Tech Summit 2019!
 
-Labs are designed to be completed by each individual, not in groups. Each Nutanix partner registered for the **Hands on Learning** track must complete a **minimum** of 5 labs.
+Labs are designed to be completed by each individual, not in groups. Each Nutanix partner registered for the **Hands on Learning** track must complete a **minimum** of 3 labs.
 
-attendees with the most number of labs will be award.
+Attendees with the most number of labs will be awarded.
 
-Please reach out to any Nutanix employee if you face any technical issue. 
+Please reach out to any Nutanix employee if you face any technical issue.
 
 
 .. raw:: html
