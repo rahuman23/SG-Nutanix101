@@ -16,7 +16,7 @@ Refer to **YOUR NAME** in the table below for all critical environmental informa
 
 **Please ensure you are using ONLY the cluster details you have been assigned in order to not create issues for other participants. When prompted during a lab, you will create resources using YOUR OWN initials (or name) to avoid duplicate, confusing resource names. For example, if your name is Dheeraj Danger Pandey, and you were creating a VM called VM1, you would name the VM DDP-VM1 (not XYZ-VM1).**
 
-:html:`<iframe width="99%" height="450" frameborder="0" scrolling="no" src="https://nutanixinc-my.sharepoint.com/:x:/g/personal/matthew_bator_nutanix_com/EZ1ixb2RUHlBhZSq373eJLEBYmpuiQ6R1Bbn8PrHbsFKbw?e=f9qRHk&action=embedview&ActiveCell='EMEA'!A1&Item='EMEA'!A1%3AO319&wdDownloadButton=True&wdInConfigurator=True"></iframe>`
+:html:`<iframe width="99%" height="450" frameborder="0" scrolling="no" src="https://nutanixinc-my.sharepoint.com/:x:/g/personal/rahuman_pichai_nutanix_com/EQeuJdbQCbNPvOdBIkWyhk0BFSTDrwkWR2PtWAF7mQxiwQ?e=BkZs2y"></iframe>`
 
 .. note::
 
@@ -79,16 +79,6 @@ All disk images required to complete the labs have been uploaded to the Image Se
      - CentOS Kubernetes Host for Karbon Disk Image
    * - **ERA-Server-build-1.0.1.qcow2**
      - Era 1.0.1 Disk Image
-   * - **move-3.0.1.qcow2**
-     - Move 3.0.1 Disk Image
-   * - **hycu-3.5.0-6253.qcow2**
-     - HYCU 3.5.0 Appliance Disk Image
-   * - **sherlock-k8s-base-image_403.qcow2**
-     - Xi IoT EdgeOS Disk Image
-..   * - **VeeamAvailability_1.0.457.vmdk**
-     - Veeam Backup Proxy for AHV 1.0 Disk Image
-   * - **VeeamBR-9.5.4.2615.Update4.iso**
-     - Veeam Backup & Replication 9.5 Update 4 ISO Image
 
 Credentials
 ...........
