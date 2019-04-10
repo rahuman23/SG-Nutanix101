@@ -6,10 +6,12 @@ Nutanix 101
 
 *The estimated time to complete this lab is 60 minutes.*
 
-Overview
-++++++++
+.. raw:: html
 
 <strong><font color="red">If you are familiar with Nutanix basic, feel free to skip this lab and proceed with the other labs. If you are new to Nutanix, please proceed with the rest of the lab.</font></strong>
+
+Overview
+++++++++
 
 New to Nutanix and AHV? This lab is for you!
 
