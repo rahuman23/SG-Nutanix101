@@ -16,7 +16,7 @@ Refer to **YOUR NAME** in the table below for all critical environmental informa
 
 **Please ensure you are using ONLY the cluster details you have been assigned in order to not create issues for other participants. When prompted during a lab, you will create resources using YOUR OWN initials (or name) to avoid duplicate, confusing resource names. For example, if your name is Dheeraj Danger Pandey, and you were creating a VM called VM1, you would name the VM DDP-VM1 (not XYZ-VM1).**
 
-:html:`<iframe width="99%" height="450" frameborder="0" scrolling="no" src="https://nutanixinc-my.sharepoint.com/:x:/g/personal/rahuman_pichai_nutanix_com/EQeuJdbQCbNPvOdBIkWyhk0BFSTDrwkWR2PtWAF7mQxiwQ?e=gL1fbI&action=embedview&ActiveCell='EMEA'!A1&Item='EMEA'!A1%3AO319&wdDownloadButton=True&wdInConfigurator=True"></iframe>`
+:html:`<iframe width="99%" height="450" frameborder="0" scrolling="no" src="https://nutanixinc-my.sharepoint.com/:x:/g/personal/rahuman_pichai_nutanix_com/EQeuJdbQCbNPvOdBIkWyhk0BFSTDrwkWR2PtWAF7mQxiwQ?e=gL1fbIaction=embedview&wdDownloadButton=True&wdInConfigurator=True"></iframe>`
 
 .. note::
 
