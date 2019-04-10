@@ -11,7 +11,6 @@ Overview
 
 <strong><font color="red">If you are familiar with Nutanix basic, feel free to skip this lab and proceed with the other labs. If you are new to Nutanix, please proceed with the rest of the lab.</font></strong>
 
-
 New to Nutanix and AHV? This lab is for you!
 
 **In this lab you will explore Prism Element and become familiar with its features and navigation. You will use Prism to perform basic cluster administration tasks, including storage and networking. You will also walk through basic VM deployment and management tasks with Prism and AHV. Finally, you will explore VM data protection, including snapshots and replication.**
