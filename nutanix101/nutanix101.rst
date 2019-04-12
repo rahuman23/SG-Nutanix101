@@ -10,6 +10,11 @@ Nutanix 101
 
 <strong><font color="red">If you are familiar with Nutanix basic, feel free to skip this lab and proceed with the other labs. If you are new to Nutanix, please proceed with the rest of the lab.</font></strong>
 
+.. raw:: html
+
+  <strong><font color="red">If you encounter issues connecting to the VPN, Nutanix IT Helpdesk is located in the back of the Thai Chitlada Ballroom.</font></strong>
+
+
 Overview
 ++++++++
 
