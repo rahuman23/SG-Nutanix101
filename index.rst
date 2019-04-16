@@ -39,7 +39,7 @@
 
    apis/apis
 
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Appendix
    :name: _appendix
