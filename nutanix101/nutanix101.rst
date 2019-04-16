@@ -8,11 +8,7 @@ Nutanix 101
 
 .. raw:: html
 
-<strong><font color="red">If you are familiar with Nutanix basic, feel free to skip this lab and proceed with the other labs. If you are new to Nutanix, please proceed with the rest of the lab.</font></strong>
-
-.. raw:: html
-
-  <strong><font color="red">If you encounter issues connecting to the VPN, Nutanix IT Helpdesk is located in the back of the Thai Chitlada Ballroom.</font></strong>
+  <strong><font color="red">If you encounter issues connecting to the VPN, please reach out to any of the Nutanix SE or Nutanix SE manager Mr.Abid. Please feel free to skip this lab exercise if you are familiar with Nutanix 101</font></strong>
 
 
 Overview
