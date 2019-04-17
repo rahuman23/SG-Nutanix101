@@ -183,6 +183,7 @@ While you wait for the Task Manager application to be deployed from the Calm blu
 
    - **Add source by:** - Select **Subnet/IP**
    - Specify *Your Domain Controller IP*\ /32
+   - the DC has been created with IP address of 10.42.XX.41. 
 
    .. figure:: images/25.png
 
