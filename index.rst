@@ -2,15 +2,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Event Info
-   :name: _info
-   :hidden:
-
-   info/clusteraccess
-   info/clusterinfo
-
-.. toctree::
-   :maxdepth: 2
    :caption: Nutanix Core Labs
    :name: _core_labs
    :hidden:
@@ -48,9 +39,14 @@ Please reach out to any Nutanix trainer if you face any technical issue.
 
   Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
 
-  SSID: SGP-NTNX- Guest
-  Password: TBA
-  Prism Central IP Address: 10.129.34.5
-  Prism Element IP address: 10.129.34.10
-  Prism Username: Admin
-  Password: Nut@n!xS5
+SSID: SGP-NTNX- Guest
+
+Password: TBA
+
+Prism Central IP Address: 10.129.34.5
+
+Prism Element IP address: 10.129.34.10
+
+Prism Username: Admin
+
+Password: Nut@n!xS5

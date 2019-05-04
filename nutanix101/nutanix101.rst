@@ -8,7 +8,7 @@ Nutanix 101
 
 .. raw:: html
 
-  <strong><font color="red">If you encounter issues connecting to the VPN, please reach out to any of the Nutanix SE or Nutanix SE manager Mr.Abid. Please feel free to skip this lab exercise if you are familiar with Nutanix 101</font></strong>
+  <strong><font color="red">If you encounter issues connecting, please reach out to any of the Nutanix SE. </font></strong>
 
 
 Overview
@@ -23,12 +23,12 @@ Prism Element
 
 The Prism service provides the web UI for managing Nutanix clusters and runs on every Controller VM (CVM). This local Prism service, referred to Prism Element, can be accessed via the IP of any individual CVM, or via the virtual IP for the cluster, which will redirect to the current Prism leader.
 
-#. Open \https://<*NUTANIX-CLUSTER-IP*>:9440 in a new browser tab.
+#. Open \https://10.129.34.5:9440 in a new browser tab.
 
 #. Log in using the following credentials:
 
    - **Username** - admin
-   - **Password** - *HPOC Password*
+   - **Password** - Nut@n!xS5
 
    .. figure:: images/nutanix_tech_overview_01.png
 
@@ -256,10 +256,10 @@ Create another network, but this time enable IPAM.
    - **Name** - *Initials*-Network_IPAM
    - **VLAN ID** - A value (< 4096) other than your **Primary** or **Secondary** network VLANs
    - Select **Enable IP Address Management**
-   - **Network IP Address / Prefix Length** - 10.0.0.0/24
-   - **Gateway** - 10.0.0.1
+   - **Network IP Address / Prefix Length** - 10.129.34.0/24
+   - **Gateway** - 10.129.34.1
    - Do not select **Configure Domain Settings**
-   - **Create Pool** - 10.0.0.100-10.0.0.150
+   - **Create Pool** - 10.129.34.200-10.129.34.240
    - Do not select **Override DHCP Server**
 
    .. figure:: images/network_config_03.png
