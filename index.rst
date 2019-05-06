@@ -37,11 +37,11 @@ Please reach out to any Nutanix trainer if you face any technical issue.
 
   <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
 
-  Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
+Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
 
 SSID: SGP-NTNX- Guest
 
-Password: TBA
+Password: Ntn@!G$ue
 
 Prism Central IP Address: 10.129.34.5
 
